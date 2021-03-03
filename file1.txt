@@ -1,3 +1,3 @@
 name of file file.txt
 it is a sample file for git use
-
+with loaded features 
